@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+}
+.container-1{
+border: 3px blue solid;
+padding: 10px;
+display: flex;
+align-items: flex-end;
+}
+.box-1{
+background: Aquamarine;
+flex: 2;
+order: 2;
+}
+.box-2{
+background: DarkSeaGreen;
+flex: 1;
+order: 3;
+}
+.box-3{
+background: PaleGreen;
+flex: 1;
+order: 1;
+}
